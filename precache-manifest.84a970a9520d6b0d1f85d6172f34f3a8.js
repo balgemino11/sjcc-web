@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d733b9c03f2493654a0c6488fcb506ae",
+    "revision": "d2e57eee7f746b79229e6129d7f0108b",
     "url": "/sjcc-web/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sjcc-web/static/css/4.52c99d85.chunk.css"
   },
   {
-    "revision": "20cb11a169c163c25ab3",
+    "revision": "94302152554afce148e1",
     "url": "/sjcc-web/static/css/main.3adba670.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sjcc-web/static/js/4.4b405711.chunk.js"
   },
   {
-    "revision": "20cb11a169c163c25ab3",
-    "url": "/sjcc-web/static/js/main.c8431312.chunk.js"
+    "revision": "94302152554afce148e1",
+    "url": "/sjcc-web/static/js/main.7d9d8a24.chunk.js"
   },
   {
     "revision": "817cc94de475a11cd414",
